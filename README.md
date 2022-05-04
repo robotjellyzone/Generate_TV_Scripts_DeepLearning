@@ -1,5 +1,7 @@
 # RNNs TV Script Generation - Deep Learning!!
 
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/robotjellyzone/Generate_TV_Scripts_DeepLearning/blob/master/dlnd_tv_script_generation.ipynb) <br>
+
 **Recurrent Neural Networks** -
 *Basic Idea Behind Using RNNS for Generation Of TV Scripts* --- 
 
